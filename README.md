@@ -98,11 +98,3 @@ These projects were more than just academic exercises. They gave me a strong fou
 - Secure File Management  
 - CLI App Prototyping
 
----
-
-## 🙏 Thank You
-
-Special thanks to **CodeChef** for creating such a practical and well-structured course!
-
----
-
